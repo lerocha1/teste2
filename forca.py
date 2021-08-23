@@ -11,6 +11,9 @@ def jogar():
     acertou = False
     erros = 0
 
+
+    #teste git
+
     print(letras_acertadas)
 
     while (not enforcou and not acertou):
